@@ -1,5 +1,10 @@
 <template>
   <v-layout>
+    <v-tabs>
+      <v-tab>Hello</v-tab>
+      <v-tab>Hello</v-tab>
+      <v-tab>Hello</v-tab>
+    </v-tabs>
     <v-flex class="text-center">
       <img src="/v.png" alt="Vuetify.js" class="mb-5" />
       <blockquote class="blockquote">
